@@ -7,3 +7,5 @@
 3. npx cypress open (to intiate the Folder structure)
 
 4. add .prettierrc file , and the tsconfig.json (should be under Cypress folder)
+
+5. to create a custom Snippets > add folder .vscode (Cypress-Testing/.vscode/customeSnippets.code-snippets)
