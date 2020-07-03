@@ -1,18 +1,26 @@
 {
-	"name": "cypress-testing",
-	"version": "1.0.0",
-	"description": "Automated Software Testing with Cypress",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [
-		"Testing",
-		"Cypress"
-	],
-	"author": "Antoun Awad",
-	"license": "ISC",
-	"dependencies": {
-		"cypress": "^4.9.0"
-	}
+  "name": "cypress-testing",
+  "version": "1.0.0",
+  "description": "Automation with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antounawad/Cypress-Testing.git"
+  },
+  "keywords": [
+    "Testing",
+    "cypress"
+  ],
+  "author": "Antoun Awad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antounawad/Cypress-Testing/issues"
+  },
+  "homepage": "https://github.com/antounawad/Cypress-Testing#readme",
+  "dependencies": {
+    "cypress": "^4.9.0"
+  }
 }
