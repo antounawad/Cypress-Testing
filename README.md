@@ -21,24 +21,18 @@ npm install
 
 ### Execute Tests
 
-Run the following command in Terminal to execute tests in Headless mode:
+Run the following command in Terminal to execute tests in Headless mode: (Dashboard)
 
 ```sh
-npm test
+npm run cy:run-dashboard
 ```
 
 Run the following command in Terminal to open Cypress Test Runner:
 
 ```sh
-npm run cypress
+npm run cy:open
 ```
 
 ### Test Report
 
 You can find the Mochawesome report in the following directory of the Project.
-
-```sh
-\cypress\reports\mochareports
-```
-
-Open 'report.html' file to view the report.
