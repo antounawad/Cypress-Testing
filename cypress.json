@@ -1,1 +1,15 @@
-{}
+{
+  "video": true,
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "viewPortWidth": 600,
+  "viewPortHeight": 1000,
+  "waitForAnimations": true,
+  "animationDistanceThreshold": 20,
+  "defaultCommandTimeout": 6000,
+  "execTimeout": 60000,
+  "pageLoadTimeout": 60000,
+  "requestTimeout": 15000,
+  "failOnStatusCode": false,
+  "projectId": "vuw1ut"
+}
