@@ -6,7 +6,7 @@ An example project demonstrating automated UI tests using JavaScript-based end-t
 
 We are using EA Employee App as the Application Under Test.
 
-- URL :
+- URL : http://zero.webappsecurity.com/index.html
 
 ### Installation
 
