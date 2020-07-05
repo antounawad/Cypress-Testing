@@ -5,7 +5,9 @@
 	"main": "index.js",
 	"scripts": {
 		"cy:open": "cypress open",
-		"cy:run": "cypress run"
+		"cy:run": "cypress run",
+		"cy:run-dashboard": "cypress run --record --key 700285e2-2ea4-42d5-a670-8ef6350accc6",
+		"cy:update-snapshot": "cypress run --env updateSnapshot=true"
 	},
 	"repository": {
 		"type": "git",
@@ -22,6 +24,7 @@
 	},
 	"homepage": "https://github.com/antounawad/Cypress-Testing#readme",
 	"dependencies": {
-		"cypress": "^4.9.0"
+		"cypress": "^4.9.0",
+		"cypress-image-snapshot": "^3.1.1"
 	}
 }
