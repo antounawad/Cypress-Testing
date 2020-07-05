@@ -1,5 +1,4 @@
-# Cypress-Testing- POM Framework 
-
+# Cypress-Testing- POM Framework
 
 An example project demonstrating automated UI tests using JavaScript-based end-to-end testing framework Cypress with Page Object Model pattern.
 
@@ -7,11 +6,12 @@ An example project demonstrating automated UI tests using JavaScript-based end-t
 
 We are using EA Employee App as the Application Under Test.
 
-* URL : 
+- URL :
 
 ### Installation
 
 Install the dependencies and devDependencies to run the test.
+
 - Clone this repo on your local machine
 - Navigate to project's directory on terminal and run the following commands:
 
