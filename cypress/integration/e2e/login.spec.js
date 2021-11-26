@@ -16,7 +16,7 @@ describe("login failed test", () => {
 })
 
 describe("Success Login", () => {
-	it("should be able to loging", () => {
+	it("should be able to loginggg", () => {
 		loginPage.loginUser(login_username, login_password)
 	})
 })
